@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 0,
+    "liveServer.settings.proxy": {
+        "proxyUri": "http://wainii.dev:80"
+    },
+    "liveServer.settings.host": "wainii.dev",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.root": ""
+}
